@@ -1,7 +1,7 @@
 """
     This is a simple program to send OTP to the given email id using python smtplib
 
-    Author: umairkarel
+    Author: vedantmpathak
 """
 from dotenv import load_dotenv, find_dotenv
 from os import environ as env
